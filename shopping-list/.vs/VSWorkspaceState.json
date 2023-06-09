@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\api",
+    "\\src\\app\\api\\listElement",
+    "\\src\\components"
+  ],
+  "SelectedNode": "\\src\\app\\api\\listElement\\route.ts",
+  "PreviewInSolutionExplorer": false
+}

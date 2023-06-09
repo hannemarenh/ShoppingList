@@ -1,12 +1,13 @@
 "use client"
+import Image from 'next/image';
 import { FunctionComponent, useState } from "react";
-import Image from 'next/image'
 
 type ListElementProps = {
     text: string
 }
 
 export const ListElement: FunctionComponent<ListElementProps> = ({ text }) => {
+
     const defaultTextStyle = "px-4"
     const doneTextStyle = defaultTextStyle + " " + "line-through";
 
